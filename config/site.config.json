@@ -1,0 +1,51 @@
+{
+  "metaData": {
+    "title": "Protool - Web & App Development",
+    "description": "A leading company specializing in web development, app development, and digital marketing.",
+    "author": "Protool",
+    "keyword": "web development, app development, digital marketing",
+    "ogImage": "/images/ogimage.jpg"
+  },
+  "baseURL": "",
+  "siteURL": "https://protool.co.in",
+  "logo": "/images/logo.svg",
+  "logoWhite": "/images/logo-white.svg",
+  "logoText": "Protool",
+  "favicon": "/images/favicon.png",
+
+  "subscriptionFormspreeID": "your-formspree-id",
+
+  "footerWidgets": {
+    "email": "support@protool.co.in",
+    "phone": "+91 8867656310"
+  },
+
+  "footerLinks": [
+    {
+      "title": "About",
+      "url": "/about"
+    },
+    {
+      "title": "Services",
+      "url": "/services"
+    },
+    {
+      "title": "Portfolio",
+      "url": "/portfolio"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact"
+    },
+    {
+      "title": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "title": "Terms",
+      "url": "/terms"
+    }
+  ],
+
+  "copyright": "© 2025 Protool, Inc. All rights reserved."
+}
